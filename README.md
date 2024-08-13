@@ -1,1 +1,2 @@
-# zewise-violet
+# zewise-kuroko
+Search engine for zewise project.

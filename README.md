@@ -1,2 +1,2 @@
-# zewise-violet
-AIGC service module for zewise project.
+# zewise-kuroko
+Search engine for zewise project.
